@@ -2,7 +2,6 @@
 #include <string>
 #include <vector>
 
-
 using namespace std;
 
 class Person 
@@ -79,12 +78,6 @@ int main()
 		string name;
 		cin >> name;
 	}
-	
-	
-	
-	
-	
-	
 	
 	return 0;
 }
